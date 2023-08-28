@@ -1,0 +1,28 @@
+figure.nice-text {
+    margin: 0 1.5rem 0 0;
+    float: left;
+}
+
+.logo__title {
+    color: #ebebeb;
+}
+
+.container.header__container {
+    background: #505050;
+}
+
+.menu.submenu {
+    border: none;
+}
+
+.menu.submenu .menu__list {
+    background: #ebebeb;
+}
+
+.menu.submenu .menu__list a {
+     color: #333;
+}
+
+.menu.submenu .menu__item--active a {
+    color: #FFF;
+}
